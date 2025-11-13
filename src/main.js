@@ -1,6 +1,6 @@
 import iziToast from "izitoast";
 import "izitoast/dist/css/iziToast.min.css";
-import { createGalleryCardTemplate } from './js/render-function'; 
+import { createGalleryCardTemplate } from './js/render-functions'; 
 import {fetchPhotosByQuery} from "./js/pixabay-api";
 
 import SimpleLightbox from "simplelightbox";
